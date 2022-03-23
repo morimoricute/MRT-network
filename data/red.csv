@@ -1,0 +1,33 @@
+,車站編號,車站名稱,Station,交會路線
+1,R22A,新北投,Xinbeitou,
+2,R28,淡水,Tamsui,淡海輕軌藍海線
+3,R27,紅樹林,Hongshulin,淡海輕軌綠山線
+4,R26,竹圍,Zhuwei,
+5,R25,關渡,Guandu,
+6,R24,忠義,Zhongyi,
+7,R23,復興崗,Fuxinggang,
+8,R22,北投,Beitou,新北投支線
+9,R22,北投,Beitou,新北投支線
+10,R21,奇岩,Qiyan,
+11,R20,唭哩岸,Qilian,
+12,R19,石牌（榮總）,Shipai(Veterans General Hospital),
+13,R18,明德,Mingde,
+14,R17,芝山,Zhishan,社子東西線
+15,R16,士林,Shilin,環狀線 （北環段）
+16,R15,劍潭,Jiantan,
+17,R14,圓山,Yuanshan,
+18,R13,民權西路,Minquan West Road,中和新蘆線
+19,R12,雙連（馬偕紀念醫院）,Shuanglian(Mackay Memorial Hospital),民生汐止線
+20,R11,中山,Zhongshan,松山新店線
+21,R10,台北車站,Taipei Main Station,台灣高鐵 台灣高鐵 臺灣鐵路縱貫線 板南線 松山新店線：北門（站外轉乘） 機場線（站外轉乘）
+22,R09,台大醫院,National Taiwan University Hospital,
+23,R08,中正紀念堂（南門）,Chiang Kai-Shek Memorial Hall(Nanmen),松山新店線 萬大-中和-樹林線
+24,R08,中正紀念堂（南門）,Chiang Kai-Shek Memorial Hall(Nanmen),松山新店線 萬大-中和-樹林線
+25,R07,東門,Dongmen,中和新蘆線
+26,R07,東門,Dongmen,中和新蘆線
+27,R06,大安森林公園,Daan Park,
+28,R05,大安,Daan,文湖線
+29,R04,信義安和,Xinyi Anhe,
+30,R03,台北101/世貿,Taipei 101/World Trade Center,
+31,R02,象山,Xiangshan,環狀線 （東環段）（站外轉乘）
+32,R01,廣慈/奉天宮,Guangci/Fengtian Temple,
